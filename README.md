@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with data structures and algorithms :( 
 - 📫 How to reach me: [email](mailto:justincho63@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: :P
+
 
 ### Languages and Tools
 
