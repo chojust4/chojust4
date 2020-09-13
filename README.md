@@ -8,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [email](mailto:justincho63@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... :P
--->
