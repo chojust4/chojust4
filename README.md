@@ -21,7 +21,7 @@
 <br/>
 
 ### Now playing 🎧
-[<img src="https://novatorem-eosin-seven.vercel.app/api/spotify-playing" alt="" width="250"/>](https://open.spotify.com/user/justinlisteningtomusic123)
+[<img src="https://novatorem-eosin-seven.vercel.app/api/spotify-playing" alt="" width="350px"/>](https://open.spotify.com/user/justinlisteningtomusic123)
 
 
 
