@@ -1,3 +1,5 @@
+### Hi, i'm Justin
+
 - 🔭 I’m currently working on a React app with the Spotify API
 - 🌱 I’m currently learning React, NodeJS
 - 🤔 I’m looking for help with data structures and algorithms :( 
