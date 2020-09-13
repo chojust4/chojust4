@@ -1,4 +1,4 @@
-### Hi, i'm Justin
+### Hi, i'm Justin 👋
 
 - 🔭 I’m currently working on a React app with the Spotify API
 - 🌱 I’m currently learning React, NodeJS
