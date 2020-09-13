@@ -16,3 +16,11 @@
 <img align = "left" alt = "" width = "28px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align = "left" alt = "" width = "28px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <img align = "left" alt = "" width = "28px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
+
+---
+
+### Now playing 🎧
+[![Spotify](https://novatorem-eosin-seven.vercel.app/)](https://open.spotify.com/user/justinlisteningtomusic123)
+
+
+
