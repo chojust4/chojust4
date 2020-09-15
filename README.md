@@ -1,4 +1,4 @@
-### hi, i'm justin 👋
+### 👋 hi, i'm justin
 
 i'm currently a third year biomedical engineering student [@ubc](https://www.bme.ubc.ca/) interested in learning new technologies!
 
