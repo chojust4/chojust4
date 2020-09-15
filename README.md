@@ -4,7 +4,7 @@ i'm currently a third year biomedical engineering student [@ubc](https://www.bme
 
 - 👨‍💻 currently exploring web development, getting familiar with popular tech stacks
 
-how to reach me: [email](mailto:justincho63@gmail.com) [linkedin](#)
+how to reach me: [email](mailto:justincho63@gmail.com) [linkedin]()
 
 ### 🎧 currently listening to
 [![Spotify](https://novatorem-blush.vercel.app/api/spotify)](https://open.spotify.com/user/justinlisteningtomusic123)
