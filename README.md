@@ -1,6 +1,6 @@
 ### hi, i'm justin 👋
 
-i'm currently a third year 🧬 Biomedical engineering student @UBC interested in learning new technologies!
+i'm currently a third year 🧬 biomedical engineering student [@ubc](https://www.bme.ubc.ca/) interested in learning new technologies!
 
 - 👨‍💻 currently exploring web development, getting familiar with popular tech stacks
 
