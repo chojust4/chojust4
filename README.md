@@ -1,6 +1,6 @@
 ### hi, i'm justin 👋
 
-i'm currently a third year [@ubc](https://www.bme.ubc.ca/) interested in software development and learning new technologies!
+i'm currently a third year [@ubc](https://www.bme.ubc.ca/) student interested in software development and learning new technologies!
 
 - 👨‍💻 currently exploring web development, getting familiar with popular tech stacks
 
