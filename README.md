@@ -6,7 +6,7 @@ currently seeking swe internships for fall 2021 🥺
 
 - [email](mailto:justincho63@gmail.com) | [linkedin](https://www.linkedin.com/in/justinccho)
 
-### 🎧 &nbsp; listening to:
+### 🎧 &nbsp; currently jaming to:
 [![Spotify](https://novatorem-blush.vercel.app/api/spotify)](https://open.spotify.com/user/justinlisteningtomusic123)
 
 
