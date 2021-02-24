@@ -4,7 +4,7 @@ i'm currently a third year [@ubc](https://www.bme.ubc.ca/) student interested in
 
 - [email](mailto:justincho63@gmail.com) | [linkedin](https://www.linkedin.com/in/justinccho)
 
-### 🎧 &nbsp; &nbsp; listening to:
+### 🎧 &nbsp; listening to:
 [![Spotify](https://novatorem-blush.vercel.app/api/spotify)](https://open.spotify.com/user/justinlisteningtomusic123)
 
 
