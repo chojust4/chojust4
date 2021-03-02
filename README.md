@@ -2,7 +2,6 @@
 
 i'm currently a third year [@ubc](https://www.bme.ubc.ca/) student interested in software development and learning new technologies!
 
-i will be interning at amazon this summer ✨ </br>
 currently seeking swe internships for fall 2021 🥺
 
 - [email](mailto:justincho63@gmail.com) | [linkedin](https://www.linkedin.com/in/justinccho)
