@@ -1,6 +1,6 @@
 ### hi, i'm justin 👋
 
-i'm currently a 3rd year [@ubc](https://www.bme.ubc.ca/) student interested in software development and learning new technologies (*currently learning golang!*)
+i'm currently a 3rd year [@ubc](https://www.bme.ubc.ca/) student interested in software development and learning new technologies (**currently learning golang!**)
 
 currently seeking swe internships for fall 2021 🥺
 
