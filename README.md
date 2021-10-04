@@ -1,4 +1,4 @@
-### hi, i'm justin 👋
+### hi, i'm justin
 
 a 4th year student [@ubc](https://www.bme.ubc.ca/) navigating my way through this strange world 🍃
 
