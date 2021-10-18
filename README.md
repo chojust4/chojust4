@@ -1,6 +1,6 @@
 ### hi, i'm justin
 
-i'm a 4th year student [@ubc](https://www.bme.ubc.ca/) navigating my way through the world 🍃
+i'm a 4th year student [@ubc](https://www.bme.ubc.ca/) and i don't know what im doing 🍃
 
 - [linkedin](https://www.linkedin.com/in/justinccho) | [medium](https://medium.com/@jjustinc)
 
